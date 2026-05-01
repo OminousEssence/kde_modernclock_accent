@@ -1,4 +1,11 @@
-<p align="center">
+the text color will change to your accent color automatically
+
+Idk how to make a widget file but made this for archival purpose. however you can copy past the main.qml file to `~/.local/share/plasma/plasmoids/com.github.prayag2.modernclock/contents/ui` or copy the lines with `//NEW` tag. only the threee lines with this tag is changed from the original code. also this is hardcoded (i don't know how to add this as a toggle either) so if you want to use custom colors again you have to remove the new line and uncomment the old line in main.qml
+
+<details>
+  <summary>Original Readme</summary>
+  
+  <p align="center">
   <img src="https://github.com/Prayag2/kde_modernclock/blob/main/assets/logo.jpg" width=100/>
   <h2 align="center">Modern Clock for KDE</h2>
   <p align="center">A modern looking clock widget!</center>
@@ -28,3 +35,5 @@
 `git clone https://github.com/prayag2/kde_modernclock && cd kde_modernclock/`  
 2. Install using the script  
 `kpackagetool5 -i package`
+
+</details>
