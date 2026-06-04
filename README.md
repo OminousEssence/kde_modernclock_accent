@@ -1,6 +1,6 @@
-the text color will change to your accent color automatically
+The text color will change to your accent color automatically
 
-Idk how to make a widget file but made this for archival purpose. however you can copy past the main.qml file to `~/.local/share/plasma/plasmoids/com.github.prayag2.modernclock/contents/ui` or copy the lines with `//NEW` tag. only the threee lines with this tag is changed from the original code. also this is hardcoded (i don't know how to add this as a toggle either) so if you want to use custom colors again you have to remove the new line and uncomment the old line in main.qml
+Idk how to make a widget file but made this for archival purposes. However, you can copy paste the main.qml file to `~/.local/share/plasma/plasmoids/com.github.prayag2.modernclock/contents/ui` or copy the lines with `//NEW` tag. Only the four lines with this tag have been changed from the original code. Also, this is hardcoded (I don't know how to add this as a toggle either), so if you want to use custom colors again, you have to remove the new line and uncomment the old line in main.qml
 
 <details>
   <summary>Original Readme</summary>
